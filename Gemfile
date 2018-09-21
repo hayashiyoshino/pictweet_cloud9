@@ -43,6 +43,7 @@ group :development, :test do
   gem 'devise'
   gem 'rspec-rails'
   gem 'factory_girl_rails', "~> 4.4.1"
+  gem 'capybara'
 end
 
 group :development do
